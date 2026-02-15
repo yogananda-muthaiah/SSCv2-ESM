@@ -17,7 +17,7 @@
 * https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/rate-limiting-on-sap-sales-amp-service-cloud-v2-apis-must-to-know/ba-p/14024861
 * https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/how-to-upload-files-to-document-service-and-link-attachments-to-leads-or/ba-p/14023039
 * https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-sales-cloud-v2-mashup-with-sap-successfactors-incentive-management/ba-p/13997885
-* 
+* https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/demystifying-sap-service-cloud-v2-rest-apis-everything-you-need-to-know/ba-p/13654041
 
 
 
