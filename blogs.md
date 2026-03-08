@@ -18,8 +18,11 @@
 * https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/how-to-upload-files-to-document-service-and-link-attachments-to-leads-or/ba-p/14023039
 * https://community.sap.com/t5/human-capital-management-blog-posts-by-sap/sap-sales-cloud-v2-mashup-with-sap-successfactors-incentive-management/ba-p/13997885
 * https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/demystifying-sap-service-cloud-v2-rest-apis-everything-you-need-to-know/ba-p/13654041
+* https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/securing-your-sap-sales-amp-service-cloud-v2-esm-extensions-with/ba-p/14344239
 
 
 
 
 * https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/introducing-forms-for-cases-sap-esm/ba-p/14174723
+* https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/sap-enterprise-service-management-esm-how-to-enable-business-document/ba-p/14332556
+* https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/how-sap-esm-document-ai-s-4hana-work-together-to-automate-invoice/ba-p/14333091
